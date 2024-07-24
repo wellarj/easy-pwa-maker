@@ -21,5 +21,5 @@
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/easy-pwa-maker.git
+   git clone https://github.com/wellarj/easy-pwa-maker.git
 "# make-pwa" 
